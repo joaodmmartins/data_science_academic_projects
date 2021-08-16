@@ -2,7 +2,7 @@ Project: Prediction of car collisions severity, using Apache Spark (PySpark) to 
 
 Data set: SWITRS (Statewide Integrated Traffic Records System), https://www.kaggle.com/alexgude/california-traffic-collision-data-from-switrs
 
-Course: Big Data Storage
+Course: Big Data Storage | Processamento de Big Data
 
 Year: 2nd
 
